@@ -5,6 +5,7 @@
 # ⚡ NEXUS Connect
 
 <p align="left">
+  <a href="https://t.me/nexus_connect_beta"><img src="https://img.shields.io/badge/Telegram-Чат%20тестеров-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
   <img src="https://img.shields.io/badge/Версия-v0.1.0--beta-blue?style=for-the-badge&logo=github" alt="Version" />
   <img src="https://img.shields.io/badge/Платформа-Windows%20x64-0078D6?style=for-the-badge&logo=windows" alt="Platform" />
   <img src="https://img.shields.io/badge/Доступ-Закрытый%20тест-2ea44f?style=for-the-badge" alt="Access" />
@@ -57,6 +58,7 @@
 ### 📥 Как попробовать и получить доступ
 
 1. **Напишите мне напрямую** — выдам персональный доступ, если на текущий момент есть свободные слоты в группе.
+   * 👉 **Группа бета-теста в Telegram:** [**t.me/nexus_connect_beta**](https://t.me/nexus_connect_beta)
 2. Скачайте файл программы из официального раздела [**Releases**](https://github.com/nexus-network-lab/NEXUS_Connect/releases) или напрямую по ссылке:  
    👉 **[Скачать NEXUSConnect.exe (v0.1.0-beta)](https://github.com/nexus-network-lab/NEXUS_Connect/releases/download/v0.1.0-beta/NEXUSConnect.exe)**
 3. Запустите файл на Windows (установка не требуется — автономный portable-билд).
@@ -67,4 +69,5 @@
 
 > [!WARNING]
 > Это **тестовая сборка**. Будут баги, будут регулярные обновления, и что-то может меняться без предварительного предупреждения. Если вам требуется железобетонная production-стабильность прямо здесь и сейчас — пока рано, лучше дождитесь официального стабильного релиза.
+
 
