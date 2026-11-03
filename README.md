@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="avatar.jpg" width="180" alt="NEXUS Connect Logo" />
+  <a href="https://t.me/nexus_connect_beta">
+    <img src="https://raw.githubusercontent.com/nexus-network-lab/NEXUS_Connect/main/avatar.jpg" width="180" alt="NEXUS Connect Logo" />
+  </a>
 </p>
 
 # ⚡ NEXUS Connect
@@ -70,6 +72,7 @@
 
 > [!WARNING]
 > Это **тестовая сборка**. Будут баги, будут регулярные обновления, и что-то может меняться без предварительного предупреждения. Если вам требуется железобетонная production-стабильность прямо здесь и сейчас — пока рано, лучше дождитесь официального стабильного релиза.
+
 
 
 
